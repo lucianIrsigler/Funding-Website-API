@@ -12,7 +12,7 @@ servers:
 paths:
   /endpoint1:
     get:
-      summary: Description of the endpoint
+      summary: Description of the endpoint kk
       operationId: getEndpoint1
       tags:
         - YourTag
